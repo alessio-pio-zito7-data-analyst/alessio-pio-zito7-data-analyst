@@ -1,4 +1,9 @@
-#  Hi, I'm Alessio
+# Hi, I'm Alessio
+
+📧 alessiopio.zito@gmail.com  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/alessio-pio-zito-129331172/)
+
+---
 
 📊 Data Analyst focused on uncovering business insights and supporting data-driven decision-making.
 
@@ -6,7 +11,7 @@
 
 ## 🚀 Featured Project
 
-📊 **Sales Performance Analysis**
+**Sales Performance Analysis**
 - +33% YoY revenue growth analysis  
 - Customer behavior & retention insights  
 - Interactive dashboard (Tableau)  
@@ -36,13 +41,6 @@
 ## 💼 Background
 
 Experience in fast-paced and client-focused environments, with a strong focus on:
-- problem solving  
-- data-driven thinking  
-- understanding customer behavior  
-
----
-
-## 📫 Contact
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alessio-pio-zito-129331172/)
-- 📧 alessiopio.zito@gmail.com
+- Problem solving  
+- Data-driven thinking  
+- Understanding customer behavior  
