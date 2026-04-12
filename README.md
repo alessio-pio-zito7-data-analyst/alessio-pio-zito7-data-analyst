@@ -1,16 +1,48 @@
-## Hi there 👋
+#  Hi, I'm Alessio
 
-<!--
-**alessio-pio-zito7-data-analyst/alessio-pio-zito7-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst based in Amsterdam, transitioning into data analytics with a strong analytical mindset and hands-on project experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+📊 **Sales Performance Analysis**
+- +33% YoY revenue growth analysis  
+- Customer behavior & retention insights  
+- Interactive dashboard (Tableau)  
+- Business-driven recommendations  
+
+👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/Classic-Models-Sales-Analysis-)
+
+---
+
+## 🧠 What I do
+
+- Analyze data to uncover business insights  
+- Build dashboards to support decision-making  
+- Work with real-world datasets to solve problems  
+
+---
+
+## ⚙️ Skills
+
+- SQL  
+- Tableau / Power BI  
+- Excel  
+- Python (Pandas, NumPy)  
+
+---
+
+## 💼 Background
+
+Experience in fast-paced and client-focused environments, with a strong focus on:
+- problem solving  
+- data-driven thinking  
+- understanding customer behavior  
+
+---
+
+## 📫 Contact
+
+- 🔗 [LinkedIn](www.linkedin.com/in/alessio-pio-zito-129331172)
+- 📧 alessiopio.zito@gmail.com
