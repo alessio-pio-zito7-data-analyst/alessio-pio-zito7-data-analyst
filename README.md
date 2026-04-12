@@ -1,6 +1,6 @@
 #  Hi, I'm Alessio
 
-📊 Aspiring Data Analyst based in Amsterdam, transitioning into data analytics with a strong analytical mindset and hands-on project experience.
+📊 Data Analyst focused on uncovering business insights and supporting data-driven decision-making.
 
 ---
 
