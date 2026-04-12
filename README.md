@@ -44,5 +44,5 @@ Experience in fast-paced and client-focused environments, with a strong focus on
 
 ## 📫 Contact
 
-- 🔗 [LinkedIn](www.linkedin.com/in/alessio-pio-zito-129331172)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alessio-pio-zito-129331172/)
 - 📧 alessiopio.zito@gmail.com
