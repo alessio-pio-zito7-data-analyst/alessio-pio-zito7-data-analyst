@@ -1,8 +1,8 @@
 # Hi, I'm Alessio
 
-📧 alessiopio.zito@gmail.com  
-
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/alessio-pio-zito-129331172/)
+
+📧 alessiopio.zito@gmail.com  
 
 ---
 
