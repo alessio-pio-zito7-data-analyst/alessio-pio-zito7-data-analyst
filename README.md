@@ -15,7 +15,7 @@
 **Classic Models Sales Analysis** 
 - +33% YoY revenue growth analysis  
 - Customer behavior & retention insights  
-- Interactive dashboard (Tableau)  
+- Interactive dashboard (Power BI)  
 - Business-driven recommendations
 
 **Built using SQL and Power BI to analyze real-world business data**
