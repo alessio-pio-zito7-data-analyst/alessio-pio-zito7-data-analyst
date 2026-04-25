@@ -34,10 +34,11 @@
 
 ## ⚙️ Skills
 
-- SQL  
-- Tableau / Power BI  
-- Excel  
-- Python (Pandas, NumPy)  
+- Python (NumPy, Pandas,
+  Matplotlib) 
+- SQL
+- Power BI / Tableau
+- Microsoft Office
 
 ---
 
