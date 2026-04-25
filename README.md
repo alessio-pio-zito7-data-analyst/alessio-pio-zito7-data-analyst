@@ -18,7 +18,7 @@
 - Interactive dashboard (Tableau)  
 - Business-driven recommendations
 
-**Built using SQL and Tableau to analyze real-world business data**
+**Built using SQL and Power BI to analyze real-world business data**
 
 👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/Classic-Models-Sales-Analysis-)
 
