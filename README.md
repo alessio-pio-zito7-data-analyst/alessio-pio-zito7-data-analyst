@@ -12,6 +12,15 @@
 
 ## 🚀 Featured Projects
 
+**SaaS Product Usage & Retention Analysis**
+- Designed KPI framework from business requirements
+- Built a Star Schema analytical model in MySQL
+- Developed SQL-based KPI calculations and reporting views
+- Developed a Power BI dashboard to support product decision-making
+👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/saas-product-usage-retention-analysis/tree/main)
+
+---
+
 **SaaS Dataset Cleaning & Data Modelling**
 - Cleaned and restructured an inconsistent SaaS dataset  
 - Redesigned parts of the relational model  
