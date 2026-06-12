@@ -17,6 +17,7 @@
 - Built a Star Schema analytical model in MySQL
 - Developed SQL-based KPI calculations and reporting views
 - Developed a Power BI dashboard to support product decision-making
+  
 👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/saas-product-usage-retention-analysis/tree/main)
 
 ---
