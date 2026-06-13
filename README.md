@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Projects
 
-**SaaS Product Usage & Retention Analysis**
+**SaaS Product Performance Analysis**
 - Designed KPI framework from business requirements
 - Built a Star Schema analytical model in MySQL
 - Developed SQL-based KPI calculations and reporting views
