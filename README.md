@@ -1,12 +1,20 @@
 # Hi, I'm Alessio
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/alessio-pio-zito-129331172/)
-
-📧 alessiopio.zito@gmail.com  
-
 ---
 
 📊 Data Analyst focused on uncovering business insights and supporting data-driven decision-making.
+
+---
+
+## ⚙️ Skills
+
+- SQL (Joins, Aggregations, Windows Functions)
+- Python (Pandas, Matplotlib) 
+- Power BI (Dashboard Development, KPI Reporting)
+- ETL & Data Modelling
+- Azure Data Fundamentals (DP-900)
+- Relational & Non-Relational Databases
+- Excel (Validation, Data Cleaning)
 
 ---
 
@@ -49,16 +57,6 @@
 - Analyze data to uncover business insights  
 - Build dashboards to support decision-making  
 - Work with real-world datasets to solve problems  
-
----
-
-## ⚙️ Skills
-
-- Python (NumPy, Pandas,
-  Matplotlib) 
-- SQL
-- Power BI / Tableau
-- Microsoft Office
 
 ---
 
