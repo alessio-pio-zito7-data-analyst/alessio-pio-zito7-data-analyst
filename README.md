@@ -28,6 +28,8 @@
   
 👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/saas-product-usage-retention-analysis/tree/main)
 
+![Dashboard Preview](Power%20BI/Power_BI_Dashboard_Screenshot.png)
+
 ---
 
 **SaaS Dataset Cleaning & Data Modelling**
