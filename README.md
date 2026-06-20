@@ -2,7 +2,7 @@
 
 ---
 
-📊 Data Analyst focused on uncovering business insights and supporting data-driven decision-making.
+📊 Data Analyst focused on SQL, Python and Power BI, helping turn data into actionable business insights.
 
 ---
 
