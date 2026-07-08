@@ -2,7 +2,9 @@
 
 ---
 
-📊 Data Analyst focused on SQL, Python and Power BI, helping turn data into actionable business insights.
+📊 Data Analyst focused on SQL, Python and Power BI.
+I am currently building portfolio projects and supporting small
+businesses with reporting and KPI tracking
 
 ---
 
