@@ -28,7 +28,7 @@ businesses with reporting and KPI tracking
 - Identified monetization patterns across countries, game genres and player segments
 - Produced business insights and hypotheses supported by data-driven analysis
   
-👉 [View Project]([https://github.com/alessio-pio-zito7-data-analyst/saas-product-usage-retention-analysis/tree/main](https://github.com/alessio-pio-zito7-data-analyst/Mobile-Game-Player-Engagement-and-Monetization-Analysis))
+👉 [View Project](https://github.com/alessio-pio-zito7-data-analyst/Mobile-Game-Player-Engagement-and-Monetization-Analysis)
 
 ---
 
