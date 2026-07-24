@@ -22,6 +22,16 @@ businesses with reporting and KPI tracking
 
 ## 🚀 Featured Projects
 
+**Mobile Game Player Engagement & Monetization Analysis**
+- Performed an end-to-end analytical workflow using Python, Pandas, NumPy and Matplotlib
+- Conducted exploratory data analysis and engineered player engagement and spending segments
+- Identified monetization patterns across countries, game genres and player segments
+- Produced business insights and hypotheses supported by data-driven analysis
+  
+👉 [View Project]([https://github.com/alessio-pio-zito7-data-analyst/saas-product-usage-retention-analysis/tree/main](https://github.com/alessio-pio-zito7-data-analyst/Mobile-Game-Player-Engagement-and-Monetization-Analysis))
+
+---
+
 **SaaS Product Performance Analysis**
 - Designed KPI framework from business requirements
 - Built a Star Schema analytical model in MySQL
