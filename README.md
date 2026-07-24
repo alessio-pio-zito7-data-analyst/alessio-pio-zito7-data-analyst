@@ -10,13 +10,13 @@ businesses with reporting and KPI tracking
 
 ## ⚙️ Skills
 
-- SQL (Joins, Aggregations, Windows Functions)
-- Python (Pandas, Matplotlib) 
-- Power BI (Dashboard Development, KPI Reporting)
+- SQL 
+- Python  
+- Power BI 
 - ETL & Data Modelling
 - Azure Data Fundamentals (DP-900)
 - Relational & Non-Relational Databases
-- Excel (Validation, Data Cleaning)
+- Excel 
 
 ---
 
