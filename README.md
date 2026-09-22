@@ -2,8 +2,11 @@
 
 ---
 
-📊 
-Data Analyst focused on turning business data into clear, actionable insights across commercial performance, customer behaviour, revenue and demand. Experienced in analysing and modelling data, building KPI-driven reporting, and solving data quality challenges. My work includes sales & commercial analytics, SaaS product performance, customer retention, data modelling and player engagement & monetization analysis. I build practical data solutions that turn raw data into meaningful business insights.
+## 📊 Profile 
+
+Data Analyst focused on turning business data into clear, actionable insights across commercial performance, customer behaviour, revenue and demand. Experienced in analysing and modelling data, building KPI-driven reporting, and solving data quality challenges. My work includes sales & 
+commercial analytics, SaaS product performance, customer retention, data modelling and player engagement & monetization analysis. I build practical data solutions that turn raw data into meaningful business insights.
+
 ---
 
 ## ⚙️ Skills
